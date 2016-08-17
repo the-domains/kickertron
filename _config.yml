@@ -1,3 +1,4 @@
+layout_spectrum: 0.6433660378679633
 typography_spectrum: 0.7151935044676065
 color:
   brandStrength: 0.8623598869889975
@@ -10,7 +11,4 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-layout_spectrum: 0.6433660378679633
 name: kickertron
-title: Mechanical football launcher
-description: Do you really love football
