@@ -1,4 +1,3 @@
-layout_spectrum: 0.6433660378679633
 typography_spectrum: 0.7151935044676065
 color:
   brandStrength: 0.8623598869889975
@@ -6,9 +5,11 @@ color:
   saturation: 0.49188456335105
   rhythmicContrast: 0.7416451629251242
   brandColors:
-    - '#EEEEEE'
-    - '#866441'
-    - '#86D0D9'
-    - '#246FD5'
-    - '#181C1F'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.6433660378679633
 name: kickertron
+title: Mechanical football launcher
